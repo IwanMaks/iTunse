@@ -6,4 +6,12 @@ html{-webkit-box-sizing:border-box;box-sizing:border-box}*,*::before,*::after{-w
 .video-volume {
     max-width: 100px;
 }
+
+.radio-volume {
+    max-width: 80%;
+}
+
+.radio-icon {
+    margin: 5px;
+}
 /*# sourceMappingURL=style.min.css.map */
